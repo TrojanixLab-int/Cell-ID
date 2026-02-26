@@ -1,3 +1,9 @@
+Project Information: Cell-ID (Funkzellennetzwerk-Analyzer)
+
+| Developer: M.S. Trojan | Laboratory: Trojanix Lab INT 
+| Status: Open Source under AGPLv3 | Free Open Source Software
+
+License:
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
@@ -659,3 +665,11 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+Risk of Use: M.S. Trojan and Trojanix Lab INT shall not be held liable for any 
+damages, data loss resulting from the use or misuse of this software.
+
+Modification of Bundled Files
+To ensure the integrity of the nuclide database, users are advised not to modify, 
+rename, or delete files within the Data folder, as this will cause the external 
+component to fail.
