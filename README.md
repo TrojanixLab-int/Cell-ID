@@ -1,5 +1,5 @@
 # Cell-ID
-Professioneller Mobilfunk-Monitor &amp; Analyzer. Visualisierung von Signalstärke, Zell-Historie und Netzparametern via AT-Kommandos. Unterstützt Multi-Vendor-Hardware zur Standortoptimierung und Sicherheitsanalyse von Funkzellen.
+📶 Professioneller Mobilfunknetzwerk-Analyzer. Visualisierung von Signalstärke, Zell-Historie und Netzparametern via AT-Kommandos. Unterstützt Multi-Vendor-Hardware zur Standortoptimierung und Sicherheitsanalyse von Funkzellen.
 
 Dieses Programm wird als nicht-kommerzielle Freeware zur Verfügung gestellt. Andere Nutzungen sind unter unten genannten Bedingungen erwerbbar.
 
